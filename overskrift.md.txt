@@ -1,3 +1,14 @@
 ## Dette er overskrift
 
 ### det er dette også
+
+## Dette er overskrift
+
+### det er dette også
+
+
+Tester git hub
+
+* nummer en
+
+* nummer 2
